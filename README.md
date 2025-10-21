@@ -117,3 +117,7 @@ Toutes les autres fonctionnalités selon le cahier des charges :
 ## 📞 Support
 
 Consultez le README détaillé dans backend/ et frontend/
+
+##  🌹 Rôles
+
+Flavien PIGOT: J'ai envie de faire des vues genre AdminPage, et PlanningPage.
