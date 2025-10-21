@@ -4,7 +4,7 @@ Frontend VueJS 3 avec Vue Router, Pinia et TailwindCSS.
 
 ## Installation
 
-```bash
+```bas
 npm install
 ```
 
